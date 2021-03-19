@@ -30,10 +30,11 @@ And a more destructive command...
 
 ### List of functions you can poke and prod to:
 
-* `updateScore(int score)` - Updates score
-```diff
-+ TODO: finish list.
-```
+* `updateScore(string mode, int value)` - Updates score, `set` mode will set the score to be the value. `add` mode will add the value to the score.
+* `restart()` - Restarts the current game (Note: does NOT reset the game like !reset does, also does not turn off cheats)
+* `genRandomCars()` - Generates random cars
+* `makeGameover()` - Game Over!
+
 # How to download
 
 Download Lane Twister.tns and transfer it into your calculator, from then, simply open it!
