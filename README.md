@@ -4,7 +4,7 @@ Don't expect much. If anything, expect sloppy coding
 
 # Hey, I wanna actually play the game, how do I play?
 
-If you haven't already, go to [How to download][How to download] to install it into your calculator
+If you haven't already, go to [How to Download](#How-to-download) to install it into your calculator
 
 > Note: This is for TI-Nspire CX Cas only. I haven't tested for CX II or any others.
 
